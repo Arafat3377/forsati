@@ -1,0 +1,5 @@
+
+Django>=5.0
+requests>=2.31
+# اختياري عند استخدام MySQL:
+# mysqlclient>=2.2
